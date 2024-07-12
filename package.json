@@ -4,15 +4,26 @@
   "main": "expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
+    "serverStart": "json-server --watch db.json --port 1000",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/vector-icons": "^14.0.2",
+    "@react-native-async-storage/async-storage": "^1.23.1",
+    "@react-navigation/native": "^6.1.17",
+    "@react-navigation/native-stack": "^6.9.26",
+    "axios": "^1.7.2",
     "expo": "~51.0.16",
+    "expo-camera": "^15.0.12",
+    "expo-image-picker": "^15.0.6",
     "expo-status-bar": "~1.12.1",
+    "formik": "^2.4.6",
+    "json-server": "^1.0.0-beta.1",
     "react": "18.2.0",
-    "react-native": "0.74.2"
+    "react-native": "0.74.2",
+    "yup": "^1.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"

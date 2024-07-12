@@ -1,0 +1,162 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "temp",
+      "number": "03xxxxxxxxx",
+      "password": "123456"
+    },
+    {
+      "id": "ebab",
+      "name": "Lol",
+      "number": "03aaaaaaaaa",
+      "password": "123"
+    },
+    {
+      "id": "7cc4",
+      "name": "03aaaaaabbb",
+      "number": "Lol 2",
+      "password": "123456"
+    },
+    {
+      "id": "39d4",
+      "name": "Test user",
+      "number": "123456789",
+      "password": "123456"
+    }
+  ],
+  "predictions": [
+    {
+      "userId": "1",
+      "image_path": "https://storage.googleapis.com/gender_images/test_img2.jpg",
+      "prediction": "Male",
+      "id": "e97f"
+    },
+    {
+      "id": "12f1",
+      "image_path": "https://storage.googleapis.com/gender_images/image.jpg",
+      "prediction": "Male",
+      "userId": "1"
+    },
+    {
+      "id": "87f9",
+      "image_path": "https://storage.googleapis.com/gender_images/image.jpg",
+      "prediction": "Male",
+      "userId": "1"
+    },
+    {
+      "id": "f009",
+      "image_path": "https://storage.googleapis.com/gender_images/image.jpg",
+      "prediction": "Male",
+      "userId": "undefined"
+    },
+    {
+      "id": "e2b5",
+      "image_path": "https://storage.googleapis.com/gender_images/image.jpg",
+      "prediction": "Male",
+      "userId": "undefined"
+    },
+    {
+      "id": "d353",
+      "image_path": "https://storage.googleapis.com/gender_images/image.jpg",
+      "prediction": "Male",
+      "userId": "undefined"
+    },
+    {
+      "id": "76c1",
+      "image_path": "https://storage.googleapis.com/gender_images/image.jpg",
+      "prediction": "Male",
+      "userId": "undefined"
+    },
+    {
+      "id": "05c2",
+      "image_path": "https://storage.googleapis.com/gender_images/image.jpg",
+      "prediction": "Male",
+      "userId": "undefined"
+    },
+    {
+      "id": "1b86",
+      "image_path": "https://storage.googleapis.com/gender_images/image.jpg",
+      "prediction": "Male",
+      "userId": "undefined"
+    },
+    {
+      "id": "680c",
+      "image_path": "https://storage.googleapis.com/gender_images/image.jpg",
+      "prediction": "Male",
+      "userId": "ebab"
+    },
+    {
+      "id": "422b",
+      "image_path": "https://storage.googleapis.com/gender_images/image.jpg",
+      "prediction": "Male",
+      "userId": "1"
+    },
+    {
+      "id": "a56e",
+      "image_path": "https://storage.googleapis.com/gender_images/image.jpg",
+      "prediction": "Female",
+      "userId": "undefined"
+    },
+    {
+      "id": "2f18",
+      "image_path": "https://storage.googleapis.com/gender_images/image.jpg",
+      "prediction": "Male",
+      "userId": "undefined"
+    },
+    {
+      "id": "4d9b",
+      "image_path": "https://storage.googleapis.com/gender_images/image.jpg",
+      "prediction": "Female",
+      "userId": "undefined"
+    },
+    {
+      "id": "f341",
+      "image_path": "https://storage.googleapis.com/gender_images/image.jpg",
+      "prediction": "Male",
+      "userId": "1"
+    },
+    {
+      "id": "f61d",
+      "image_path": "https://storage.googleapis.com/gender_images/image.jpg",
+      "prediction": "Male",
+      "userId": "1"
+    },
+    {
+      "id": "09d1",
+      "image_path": "https://storage.googleapis.com/gender_images/image.jpg",
+      "prediction": "Male",
+      "userId": "1"
+    },
+    {
+      "id": "07fd",
+      "image_path": "https://storage.googleapis.com/gender_images/image.jpg",
+      "prediction": "Male",
+      "userId": "1"
+    },
+    {
+      "id": "c85d",
+      "image_path": "https://storage.googleapis.com/gender_images/image.jpg",
+      "prediction": "Male",
+      "userId": "1"
+    },
+    {
+      "id": "d6f0",
+      "image_path": "https://storage.googleapis.com/gender_images/image.jpg",
+      "prediction": "Male",
+      "userId": "1"
+    },
+    {
+      "id": "e8ca",
+      "image_path": "https://storage.googleapis.com/gender_images/image.jpg",
+      "prediction": "Male",
+      "userId": "1"
+    },
+    {
+      "id": "9703",
+      "image_path": "https://storage.googleapis.com/gender_images/image.jpg",
+      "prediction": "Male",
+      "userId": "39d4"
+    }
+  ]
+}
